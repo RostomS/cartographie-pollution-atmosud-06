@@ -66,10 +66,9 @@ Les principales cartes produites sont disponibles dans `outputs/`.
 
 ## 📂 Contenu du dépôt
 
-- `data/`
+- `QGIS/`
   - `pollution_06_24h_prop.txt` : données 24h.
   - `pollution_06_7j_prop.csv` : données 7 jours.
-- `qgis/`
   - `24H.qgz` : projet QGIS pour la carte 24h.
   - `7J.qgz` : projet QGIS pour la carte 7 jours.
 - `outputs/`
